@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller:AZ-Delivery ESP32-WROOM-32
 
-motors: 
+motors: Mini Micro Metal Gear Motor 6V 500TPM
 
-h-bridge:
+h-bridge:Drv8833
 
-sensors:
+sensors:QTR-8A
 
-batteries:
+batteries:XTAR 2200mAh Li-ion battery
 
-wireless communication:
+wireless communication: AZ-Delivery ESP32-WROOM-32
 
 distance sensor - motors:
 
