@@ -1,14 +1,14 @@
 const int knopPin = 2;
-const int ledPin = 13;
+const int ledPin = 17;
 
 bool isSchakelaarAan = false;
 
 long laatsteDebounceTijd = 0;
-long debounceVertraging = 50;
+long debounceVertraging = 200;
 
 void setup() {
   pinMode(knopPin, INPUT_PULLUP);
-  attachInterrupt(digitalPinToInterrupt(knopPin), toggleSchakelaar, RISING);
+  attachInterrupt(digitalPinToInterrupt(knopPin), toggleSchakelaar, FALLING);
   pinMode(ledPin, OUTPUT);
 }
 
