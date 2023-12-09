@@ -14,8 +14,8 @@
 |9|Batterij lader|XTAR MC2 Plus batterijlader|nieuw|6,95|1|6,95|
 |10|Batterij|XTAR 18650 2200mAh (protected) 5A|nieuw|4,45|2|8,90|
 |11|ESP32 Microcontroller|AZ-Delivery ESP32-WROOM-32 NodeMCU Module|nieuw|7,60|1|7,60|
-|12|Kabels
-|13|Voltage Regulator| 
+|12|Kabels|Meerkleurige kabels 0,75mm|nieuw|7|1|7|
+|13|Voltage Regulator| +5V 1,5A L7805CV|0,75|1|0,75|
 |14|Kogelwiel| Draaiende bal voor voorwiel|nieuw|1,10|1|1,10|
 |15|3D prints
-|16| Verbindings kabel| micro usb|recup|*|1|*|
+|16| Verbindings kabel| Micro USB voor connector ESP32|recup|*|1|*|
