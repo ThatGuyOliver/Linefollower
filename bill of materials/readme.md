@@ -16,3 +16,6 @@
 |11|ESP32 Microcontroller|AZ-Delivery ESP32-WROOM-32 NodeMCU Module|nieuw|7,60|1|7,60|
 |12|Kabels
 |13|Voltage Regulator| 
+|14|Kogelwiel| Draaiende bal voor voorwiel|nieuw|1,10|1|1,10|
+|15|3D prints
+|16| Verbindings kabel| micro usb|recup|*|1|*|
