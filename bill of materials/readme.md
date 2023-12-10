@@ -47,4 +47,4 @@
 |19|6 pin header f|Connector Drv8833 H-Brug|nieuw|0,18|2|0,36|
 |20|12 pin header f|Connector Sensor|nieuw|0,28|1|0,28|
 |21|4 pin Terminal Block| Terminal Block connector voor motoren|nieuw|0,45|1|0,45|
-|22|2 pin Terminal Block| Terminal Block connector voor batterijen|0,30|1|0,30|
+|22|2 pin Terminal Block| Terminal Block connector voor batterijen|nieuw|0,30|1|0,30|
