@@ -27,7 +27,7 @@
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk[€]|aantal|subtotaal[€]|
 |----------|----|------------|-----------|---------|------|---------|
 |1| Drv8833 H-Brug | Aliexpress 3-10V H-Brug | nieuw | 3,57|1|3,57|
-|2|
+|2|PCB Mainboard|Vervanging van breadboard|nieuw|
 |3|DC Motor| 6V DC, 50:1 ratio| nieuw | 2,04|2 |4,08|
 |4|Achter Wiel| 40mm rubber wiel|nieuw|0,79|2|1,58|
 |5|Batterij Houder| 2x18650 Batterij met switch|nieuw|0,32|1|0,32|
@@ -42,5 +42,7 @@
 |14|Verbindings kabel| Micro USB voor connector ESP32|recup|*|1|*|
 |15|Baseplate|Plaat waarop alles bevestigd wordt|nieuw||
 |16|Motorhouders|Polulu motor houder|nieuw|
-|17|
-
+|17|3 pin header f |Connector U-regulator|nieuw|0,12|1|0,12|
+|18|20 pin header f| Connector esp32|nieuw|0,36|2|0,72|
+|19|6 pin header f|Connector Drv8833 H-Brug|nieuw|0,18|2|0,36|
+|20|12 pin header f|connector Sensor|nieuw|0,28|1|0,28|
