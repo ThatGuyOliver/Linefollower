@@ -27,7 +27,7 @@ Je soldeert de pin headers van de sensor, in de rij met 11 gaten naast elkaar, m
 ## stap 11
 Nu soldeer je de header van de H-brug met het de lange kant naarbeneden (Lange kant naar de kant zonder componenten)
 ## stap 12
-Je bevestigd de sensor met gebruik van lijm aan de onderkant van het uitsteeksel op het 2de gaatje en zodat het lange deel van de headers naar boven steekt en de sensoren naar beneden.
+Je bevestigd de sensor module met gebruik van lijm aan de onderkant van het uitsteeksel op het 2de gaatje en zodat het lange deel van de headers naar boven steekt en de sensoren naar beneden.
 ## stap 13
 Het kogelwiel bevestig je in het midden van de robot en zodat het de sensor net niet raakt.
 ### stap 14
