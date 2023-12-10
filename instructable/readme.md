@@ -2,48 +2,48 @@
 
 Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend van de bill of materials en gebruik makend van de technische tekeningen de robot kan nabouwen. Ook de nodige stappen om de microcontroller te compileren en te uploaden staan beschreven.  
 
-### stap 1
+## stap 1
 bestel alle componenten uit de bill of materials  
-### stap 2
+## stap 2
 Leg de breadboards in hun lengte naast elkaar
-### stap 3
+## stap 3
 Zorg nu dat de breadboards aan elkaar hangen met 1 kleiner stuk ertussen
-### stap 4
+## stap 4
 Maak de zijstukken los maar behoud 1 zijstuk op 1 breadboard. Nu moet je een configuratie bekomen van breadboards die gaat; Groot Breadboard - Klein Breadboard - Groot Breadboard.
 Die aan elkaar vast hangen.
-### stap 5
+## stap 5
 Je maakt de gele sticker aan de onderkant los. Zodat de onderkant van het breadboard plakkerig wordt.
-### stap 6
+## stap 6
 Je plakt dit breadboard nu op de baseplate tussen de verhogingen en vlak met de achterkant van de baseplate (Niet bij de uitsteeksels).
-### stap 7
+## stap 7
 Je knipt de uitsteeksels af  totdat er nog 4 gaten overblijven op elk uitsteeksel.
-### stap 8
+## stap 8
 Soldeer de draadjes aan de motoren (eventueel knip je een draad in twee)
-### stap 9
+## stap 9
 Je lijmt de motor houders nu vast zodat de palmbomen naar de buitenkant wijzen en ze in hun respectieve hoek zitten.
 Dus aan de linker en rechter achterhoek.
 ### stap 10
 Je soldeert de pin headers van de sensor in de rij met 11 gaten naast elkaar met het lange stuk naar boven (het vlak zonder de componenten)
-### stap 11
+## stap 11
 Nu soldeer je de header van de H-brug met het de lange kant naarbeneden (Lange kant naar de kant zonder componenten)
-### stap 12
+## stap 12
 Je bevestigd de sensor met gebruik van lijm aan de onderkant van het uitsteeksel op het 2de gaatje en zodat het lange deel van de headers naar boven steekt en de sensoren naar beneden.
-### stap 13
+## stap 13
 Het kogelwiel bevestig je in het midden van de robot en zodat het de sensor net niet raakt.
 ### stap 14
 Je duwt de wielen op de motoren
-### stap 15
+## stap 15
 Je duwt de motoren in de motorenhouders in een naar buiten wijzende manier todat alleen nog het "gouden" gedeelte uitsteekt.
-### stap 16
+## stap 16
 !Vanaf nu is het perspectief vanuit de achterkant van de robot.
 Je plaatst de ESP32 nu vanachter links, zodat nog juist de rechter kan van de esp32 in het rechter breadboard zit. Zorg er ook voor dat de USB micro naar achter uit steekt.
-### stap 17
+## stap 17
 De voltage regulator plaats je nu links van de esp32, op de linker helft van de linker breadboard.
-### stap 18
+## stap 18
 De H-Brug plaats in de rechter boven hoek, met de lange kant van de headers in het breadboard.
-### stap 19
+## stap 19
 Je bevestigd de batterij houder aan Batterij Houder Platform met de Schroefjes en Moeren
-### stap 20
+## stap 20
 Je schuift de Batterij Houder Platform via de voorkant tot dat het vlak is met het baseplate deel
 ## stap 21
 Nu verbindt je alles volgen het elektrisch schema
