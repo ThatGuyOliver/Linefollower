@@ -95,5 +95,8 @@ Wanneer je alles correct hebt gedaan, zou hier na enkele seconden het IP van je 
 Nu trek je de kabel uit de ESP32.
 ## stap 43
 Plaats de batterijen in de batterijhouder.
+Als deze nog niet open is, dan schuif je het deksel eraf. 
 ## stap 44
+Schuif het deksel er weer op.
+## stap 45
 Zet de schakelaar van de batterijhouder op 'ON'.
