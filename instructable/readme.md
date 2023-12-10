@@ -75,9 +75,9 @@ In deze file zoek je naar de de parameters SSID, PSWD en MyHostNAme.
 ##stap 33
 !Bij deze parameters pas je alleen de tekst tussen de "" aan!
 De SSID naar de naam van je WIFI netwerk, PSWD naar het wachtwoord van je Wifi netwerk en Myhostname naar iets van jouw voorkeur.
-## stap 25
+## stap 34
 Nu verbind je de esp32 met je computer door de kabel in de USB micro te verbinden met een USB poort van de computer waarop Visual Studio staat.
-## stap 26
+## stap 35
 Je laadt het programma op op de esp32 door op upload te klikken dit is een knop op onderste balk.
-## stap 27
+## stap 36
 Je opent de serial command dit is symbool met de 
