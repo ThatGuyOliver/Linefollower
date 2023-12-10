@@ -36,50 +36,50 @@ Je duwt de wielen op de motoren
 Je duwt de motoren in de motorenhouders (in een naar buiten wijzende manier) todat alleen nog het "gouden" gedeelte van de motor uitsteekt.
 ## stap 16
 !Vanaf nu is het perspectief vanuit de achterkant van de robot.
-Je plaatst de ESP32 nu vanachter links, zodat nog juist de rechter kan van de esp32 in het rechter breadboard zit. Zorg er ook voor dat de USB micro naar achter uit steekt.
+Je plaatst de ESP32 het grootste deel op het lingste en  nog juist de rechter pins van de esp32 in het rechter breadboard zit. Zorg er ook voor dat de USB micro naar achter uit steekt.
 ## stap 17
-De voltage regulator plaats je nu links van de esp32, op de linker helft van de linker breadboard.
+De voltage regulator plaats je nu in de lengte links van de esp32, op de linker helft van de linker breadboard.
 ## stap 18
-De H-Brug plaats in de rechter boven hoek, met de lange kant van de headers in het breadboard.
+De H-Brug plaats in de rechter boven hoek, met de lange kant van de headers in het breadboard. En je zorgt ervoor dat hij over de gleuf staat zodat de 2 kanten niet op hetzelfde deel staan.
 ## stap 19
-Je bevestigd de batterij houder aan Batterij Houder Platform met de Schroefjes en Moeren
+Je bevestigd de batterij houder aan het Batterij Houder Platform met de Schroefjes en Moeren. Voor de oriëntatie neem je zodat de draadjes op de linker kant terecht komen in de volgende stap.
 ## stap 20
-Je schuift de Batterij Houder Platform via de voorkant tot dat het vlak is met het baseplate deel
+Je schuift de Batterij Houder Platform via de voorkant tot dat die vlak is met het baseplate deel
 ## stap 21
-Nu verbindt je alles volgen het elektrisch schema
+Nu verbind je alle draden volgens het elektrisch schema
 https://github.com/ThatGuyOliver/Linefollower/blob/main/technische%20tekeningen/elektronisch/PlanB/PlanB_schema.pdf
 ## stap 22
-Eventueel laadt je de batterijen op.
+Eventueel laad je de batterijen op.
 ## stap 23
 Je zet de schakelaar van de batterij houder op "OFF"
 ##stap 24
-Je installeerd visual studio.
+Je installeerd visual studio op je computer
 ## stap 25
-Wanneer je op het startscherm bent, klik op je in de linkerbalk op extensions. 
+Wanneer je op het startscherm bent, klik je in de linkerbalk op extensions. 
 ## stap 26
-Je zoekt naar en installeert platform IO
+Je zoekt naar en installeerd platform IO
 ## stap 27
-Nu klik op je de alien en wordt platform io gestart. Hierna herload je visual studio.
+Nu klik op je de alien en wordt platform io gestart. Hierna herlaad je visual studio.
 ## stap 28
 Je download https://github.com/ThatGuyOliver/Linefollower/blob/main/code/finaal/Line%20Follower.zip
 en unzipt dit.
 ## stap 29
 Op visual studio klik je op de Alien op de linker tab en daarna op open project.
 Hierbij selecteer je de map met de bestanden die je net unzipt hebt.
-Nu wordt dit project ingeladen.
+Nu wordt dit project ingeladen dus wacht je tot dit wordt voltooid.
 ## stap 30
-In de explorer tab klik je de map src.
+In de explorer tab klik je de folder src open.
 ## stap 31
 Dan klik je op main.cpp
 ## stap 32
-In deze file zoek je naar de de parameters SSID, PSWD en MyHostNAme.
+In deze file zoek je naar de de parameters SSID, PSWD en MyHostName.
 ## stap 33
 !Bij deze parameters pas je alleen de tekst tussen de "" aan!
 De SSID naar de naam van je WIFI netwerk, PSWD naar het wachtwoord van je Wifi netwerk en Myhostname naar iets van jouw voorkeur.
 ## stap 34
 Nu verbind je de esp32 met je computer door de kabel in de USB micro te verbinden met een USB poort van de computer waarop Visual Studio staat.
 ## stap 35
-Je laadt het programma op op de esp32 door op upload te klikken dit is een knop op onderste balk. De pijl naar rechts.
+Je laadt het programma op op de esp32 door op upload te klikken (dit is een knop op onderste balk, de pijl naar rechts.)
 ## stap 36
 Je opent de serial command dit is symbool met de stekker.
 ## stap 37
