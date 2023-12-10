@@ -46,6 +46,7 @@ Schuif de Batterij Houder Platform via de voorkant tot het vlak is met het basep
 ## stap 21
 Verbind nu alle draden volgens het elektrisch schema:
 https://github.com/ThatGuyOliver/Linefollower/blob/main/technische%20tekeningen/elektronisch/PlanB/PlanB_schema.pdf
+Je kan eventueel plakband gebruiken als de kabels niet goed zijn.
 ## stap 22
 Eventueel laad je de batterijen op.
 ## stap 23
