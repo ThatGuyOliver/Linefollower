@@ -37,13 +37,12 @@ uitleg over het verbinden van de robot met laptop / smartphone
 9. Klik nu op de net aangemaakte host
 
 ### commando's
-debug [on/off]  
-start  
-stop  
-set cycle [µs]  
-set power [0..255]  
-set diff [0..1]  
-set kp [0..]  
+debug  
+run
+set cycle [µs]
+set power [0..255]
+set diff [0..1] 
+set kp [0..]
 set ki [0..]  
 set kd [0..]  
 calibrate black  
