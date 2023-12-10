@@ -64,6 +64,14 @@ Het is belangrijk dat je deze commandos opnieuw uitvoerd wanneer je van omgeving
 
 ## settings
 De robot rijdt stabiel met volgende parameters:  
+cycle time: 2500
+power: 80
+Diff: 0.10
+Kp: 30
+Ki: 0
+Kd: 1.00
 
+/*
 ## start/stop button
 uitleg locatie + werking start/stop button
+*/
