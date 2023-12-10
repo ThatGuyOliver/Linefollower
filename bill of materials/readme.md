@@ -45,4 +45,6 @@
 |17|3 pin header f |Connector U-regulator|nieuw|0,12|1|0,12|
 |18|20 pin header f| Connector esp32|nieuw|0,36|2|0,72|
 |19|6 pin header f|Connector Drv8833 H-Brug|nieuw|0,18|2|0,36|
-|20|12 pin header f|connector Sensor|nieuw|0,28|1|0,28|
+|20|12 pin header f|Connector Sensor|nieuw|0,28|1|0,28|
+|21|4 pin Terminal Block| Terminal Block connector voor motoren|nieuw|0,45|1|0,45|
+|22|2 pin Terminal Block| Terminal Block connector voor batterijen|0,30|1|0,30|
