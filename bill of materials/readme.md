@@ -17,5 +17,7 @@
 |12|Kabels|Meerkleurige kabels 0,75mm|nieuw|7|1|7|
 |13|Voltage Regulator| +5V 1,5A L7805CV|0,75|1|0,75|
 |14|Kogelwiel| Draaiende bal voor voorwiel|nieuw|1,10|1|1,10|
-|15|3D prints
-|16| Verbindings kabel| Micro USB voor connector ESP32|recup|*|1|*|
+|15|Verbindings kabel| Micro USB voor connector ESP32|recup|*|1|*|
+|16|Baseplate|Plaat waarop alles bevestigd wordt|nieuw|
+|17|Motorhouders|Polulu motor houder|nieuw|*|2|*|
+|18|Battery holder| Verhoog voor montering battery houder|nieuw|*|1|*|
