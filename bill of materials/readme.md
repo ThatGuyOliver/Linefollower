@@ -1,7 +1,7 @@
 ## bill of materials
 <br />
 
-|volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
+|volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk[€]|aantal|subtotaal[€]|
 |----------|----|------------|-----------|---------|------|---------|
 |1 | DC Motors (Micro metal gearbox) |50:1 ratio, 6V DC|nieuw|2,04|2|4,08|
 |2| Drv8833 H-Brug | Aliexpress 3-10V H-Brug | nieuw | 3,57|1|3,57|
@@ -18,6 +18,6 @@
 |13|Voltage Regulator| +5V 1,5A L7805CV|0,75|1|0,75|
 |14|Kogelwiel| Draaiende bal voor voorwiel|nieuw|1,10|1|1,10|
 |15|Verbindings kabel| Micro USB voor connector ESP32|recup|*|1|*|
-|16|Baseplate|Plaat waarop alles bevestigd wordt|nieuw|
-|17|Motorhouders|Polulu motor houder|nieuw|*|2|*|
+|16|Baseplate|Plaat waarop alles bevestigd wordt|nieuw|0,47|1|0,47|
+|17|Motorhouders|Polulu motor houder|nieuw|0,06|2|0,12|
 |18|Battery holder| Verhoog voor montering battery houder|nieuw|*|1|*|
