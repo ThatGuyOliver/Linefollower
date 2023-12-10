@@ -9,7 +9,7 @@ Leg de breadboards in hun lengte naast elkaar
 ### stap 3
 Zorg nu dat de breadboards aan elkaar hangen met 1 kleiner stuk ertussen
 ### stap 4
-Maak de zijstukken los, nu bekom je een configuratie van breadboards van Groot Breadboard - Klein Breadboard - Groot Breadboard.
+Maak de zijstukken los maar behoud 1 zijstuk op 1 breadboard. Nu moet je een configuratie bekomen van breadboards die gaat; Groot Breadboard - Klein Breadboard - Groot Breadboard.
 Die aan elkaar vast hangen.
 ### stap 5
 Je maakt de gele sticker aan de onderkant los. Zodat de onderkant van het breadboard plakkerig wordt.
@@ -21,10 +21,11 @@ Je knipt de uitsteeksels af  totdat er nog 4 gaten overblijven op elk uitsteekse
 Soldeer de draadjes aan de motoren (eventueel knip je een draad in twee)
 ### stap 9
 Je lijmt de motor houders nu vast zodat de palmbomen naar de buitenkant wijzen en ze in hun respectieve hoek zitten.
+Dus aan de linker en rechter achterhoek.
 ### stap 10
-Je soldeert de pin headers in de sensor met het lange stuk naar boven (het vlak zonder de componenten) en in de rij met 11 gaten naast elkaar
+Je soldeert de pin headers van de sensor in de rij met 11 gaten naast elkaar met het lange stuk naar boven (het vlak zonder de componenten)
 ### stap 11
-Nu soldeer je de header met het de lange kant naarbeneden (Lange kant naar de kant zonder componenten)
+Nu soldeer je de header van de H-brug met het de lange kant naarbeneden (Lange kant naar de kant zonder componenten)
 ### stap 12
 Je bevestigd de sensor met gebruik van lijm aan de onderkant van het uitsteeksel op het 2de gaatje en zodat het lange deel van de headers naar boven steekt en de sensoren naar beneden.
 ### stap 13
