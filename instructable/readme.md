@@ -51,7 +51,8 @@ Eventueel laad je de batterijen op.
 ## stap 23
 Zet de schakelaar van de batterijhouder op "OFF".
 ## stap 24
-Installeer Visual Studio op je computer.
+Installeer Visual Studio Code op je computer.
+https://code.visualstudio.com/download
 ## stap 25
 Wanneer je op het startscherm bent, klik je in de linkerbalk op extensions.
 ## stap 26
@@ -69,31 +70,30 @@ In de explorer tab klik je de folder src open.
 ## stap 31
 Klik vervolgens op main.cpp.
 ## stap 32
-In deze file zoek je naar de de parameters SSID, PSWD en MyHostName.
+In deze file zoek je naar de parameters SSID, PSWD en MyHostName.
 ## stap 33
 !Bij deze parameters pas je alleen de tekst tussen de "aanhalingstekens" aan!
 De SSID naar de naam van je WIFI netwerk, PSWD naar het wachtwoord van je Wifi netwerk en Myhostname naar iets van jouw voorkeur.
 ## stap 34
-Nu verbind je de esp32 met je computer door de kabel in de USB micro te verbinden met een USB poort van de computer waarop Visual Studio staat.
+Nu verbind je de ESP32 met je computer door de kabel in de USB micro te verbinden met een USB-poort van de computer waarop Visual Studio staat.
 ## stap 35
 Je download en unzipt https://github.com/ThatGuyOliver/Linefollower/blob/main/instructable/CP210x_Universal_Windows_Driver.zip
 Dit is de driver voor de esp32.
 ## stap 36
 Nu installeer je deze driver, dit is afhankelijk van platform tot platform.
 ## stap 37
-Na een succesvolle installatie herstart je best visual studio en je sluit je de esp32 opnieuw aan.
+Na een succesvolle installatie herstart je best Visual Studio Code en sluit je de ESP32 opnieuw aan.
 ## stap 38
-Je keert terug naar het project
+Keer terug naar het project.
 ## stap 39
-Je laadt het programma op op de esp32 door op upload te klikken (dit is een knop op onderste balk, de pijl naar rechts.)
+Laad het programma op de ESP32 door op 'upload' te klikken (dit is een knop op de onderste balk, de pijl naar rechts).
 ## stap 40
-Na een succesvolle upload open je de de serial monitor, dit is het symbool met de stekker.
+Na een succesvolle upload open je de serial monitor, dit is het symbool met de stekker.
 ## stap 41
-Wanneer je alles correct hebt gedaan zou hier na enkele seconden het ip van je esp32 verschijnen.
-!Deze schrijf je op!
+Wanneer je alles correct hebt gedaan, zou hier na enkele seconden het IP van je ESP32 verschijnen. !Noteer dit.!
 ## stap 42
-Nu trek je de kabel uit de esp32.
+Nu trek je de kabel uit de ESP32.
 ## stap 43
 Plaats de batterijen in de batterijhouder.
 ## stap 44
-Je zet de switch van de batterijhouder op ON
+Zet de schakelaar van de batterijhouder op 'ON'.
