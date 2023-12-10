@@ -38,13 +38,13 @@ Je duwt de motoren in de motorenhouders (in een naar buiten wijzende manier) tod
 !Vanaf nu is het perspectief vanuit de achterkant van de robot.
 Je plaatst de ESP32 het grootste deel op het lingste en  nog juist de rechter pins van de esp32 in het rechter breadboard zit. Zorg er ook voor dat de USB micro naar achter uit steekt.
 ## stap 17
-De voltage regulator plaats je nu in de lengte links van de esp32, op de linker helft van de linker breadboard.
+De voltage regulator plaats je nu in de lengte, links van de esp32, op de linker helft van de linker breadboard.
 ## stap 18
 De H-Brug plaats in de rechter boven hoek, met de lange kant van de headers in het breadboard. En je zorgt ervoor dat hij over de gleuf staat zodat de 2 kanten niet op hetzelfde deel staan.
 ## stap 19
 Je bevestigd de batterij houder aan het Batterij Houder Platform met de Schroefjes en Moeren. Voor de oriëntatie neem je zodat de draadjes op de linker kant terecht komen in de volgende stap.
 ## stap 20
-Je schuift de Batterij Houder Platform via de voorkant tot dat die vlak is met het baseplate deel
+Je schuift de Batterij Houder Platform via de voorkant tot dat die vlak is met het baseplate deel.
 ## stap 21
 Nu verbind je alle draden volgens het elektrisch schema
 https://github.com/ThatGuyOliver/Linefollower/blob/main/technische%20tekeningen/elektronisch/PlanB/PlanB_schema.pdf
@@ -52,12 +52,12 @@ https://github.com/ThatGuyOliver/Linefollower/blob/main/technische%20tekeningen/
 Eventueel laad je de batterijen op.
 ## stap 23
 Je zet de schakelaar van de batterij houder op "OFF"
-##stap 24
+## stap 24
 Je installeerd visual studio op je computer
 ## stap 25
 Wanneer je op het startscherm bent, klik je in de linkerbalk op extensions. 
 ## stap 26
-Je zoekt naar en installeerd platform IO
+Je zoekt naar en installeerd Platform IO
 ## stap 27
 Nu klik op je de alien en wordt platform io gestart. Hierna herlaad je visual studio.
 ## stap 28
@@ -74,20 +74,29 @@ Dan klik je op main.cpp
 ## stap 32
 In deze file zoek je naar de de parameters SSID, PSWD en MyHostName.
 ## stap 33
-!Bij deze parameters pas je alleen de tekst tussen de "" aan!
+!Bij deze parameters pas je alleen de tekst tussen de "aanhalingstekens" aan!
 De SSID naar de naam van je WIFI netwerk, PSWD naar het wachtwoord van je Wifi netwerk en Myhostname naar iets van jouw voorkeur.
 ## stap 34
 Nu verbind je de esp32 met je computer door de kabel in de USB micro te verbinden met een USB poort van de computer waarop Visual Studio staat.
 ## stap 35
-Je laadt het programma op op de esp32 door op upload te klikken (dit is een knop op onderste balk, de pijl naar rechts.)
+Je download en unzipt https://github.com/ThatGuyOliver/Linefollower/blob/main/instructable/CP210x_Universal_Windows_Driver.zip
+Dit is de driver voor de esp32.
 ## stap 36
-Je opent de serial command dit is symbool met de stekker.
+Nu installeer je deze driver, dit is afhankelijk van platform tot platform.
 ## stap 37
+Na een succesvolle installatie herstart je best visual studio en je sluit je de esp32 opnieuw aan.
+## stap 38
+Je keert terug naar het project
+## stap 39
+Je laadt het programma op op de esp32 door op upload te klikken (dit is een knop op onderste balk, de pijl naar rechts.)
+## stap 40
+Na een succesvolle upload open je de de serial monitor, dit is het symbool met de stekker.
+## stap 41
 Wanneer je alles correct hebt gedaan zou hier na enkele seconden het ip van je esp32 verschijnen.
 !Deze schrijf je op!
-## stap 38
+## stap 42
 Nu trek je de kabel uit de esp32.
-## stap 39
+## stap 43
 Je steekt de batterijen in de batterijhouder
-## stap 40
-Je zet de switch aan
+## stap 44
+Je zet de switch van de batterihouder op ON
