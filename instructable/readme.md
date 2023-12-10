@@ -82,12 +82,12 @@ Nu verbind je de esp32 met je computer door de kabel in de USB micro te verbinde
 Je laadt het programma op op de esp32 door op upload te klikken dit is een knop op onderste balk. De pijl naar rechts.
 ## stap 36
 Je opent de serial command dit is symbool met de stekker.
-##stap 37
+## stap 37
 Wanneer je alles correct hebt gedaan zou hier na enkele seconden het ip van je esp32 verschijnen.
 !Deze schrijf je op!
-##stap 38
+## stap 38
 Nu trek je de kabel uit de esp32.
-##stap 39
+## stap 39
 Je steekt de batterijen in de batterijhouder
-##stap 40
+## stap 40
 Je zet de switch aan
