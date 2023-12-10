@@ -20,6 +20,8 @@
 |15|Baseplate|Plaat waarop alles bevestigd wordt|nieuw|0,47|1|0,47|
 |16|Motorhouders|Polulu motor houder|nieuw|0,06|2|0,12|
 |17|Battery holder| Verhoog voor montering battery houder|nieuw|0,58|1|0,58|
+|18|Schroef|M3x12|recup|0,10|4|0,40|
+|19|Moer|M3|recup|0,10|4|0,40|
 
 ## bill of materials plan A
 <br />
@@ -48,3 +50,5 @@
 |20|12 pin header f|Connector Sensor|nieuw|0,28|1|0,28|
 |21|4 pin Terminal Block| Terminal Block connector voor motoren|nieuw|0,45|1|0,45|
 |22|2 pin Terminal Block| Terminal Block connector voor batterijen|nieuw|0,30|1|0,30|
+|23|Schroef|M3x12|recup|0,10|4|0,40|
+|24|Moer|M3|recup|0,10|4|0,40|
