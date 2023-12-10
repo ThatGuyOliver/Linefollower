@@ -60,31 +60,23 @@ Je zoekt naar en installeert platform IO
 ##stap 27
 Nu klik op je de alien en wordt platform io gestart. Hierna herload je visual studio.
 ##stap 28
-Hierbij selecteer je de az-delivery-devkit-v4 op het plaform espressif32 met het framework van Arduino.
-##stap 26
-Maak een nieuwe project aan.
-##stap 26
-Je download main.zip
-https://github.com/ThatGuyOliver/Linefollower/blob/main/code/finaal/main.zip
-##stap 27
-Je unzipt deze bestanden en plaatst ze op een plek waar je aan kan.
-##stap 28
-In de explorer tab ga je naar je project.
+Je download https://github.com/ThatGuyOliver/Linefollower/blob/main/code/finaal/Line%20Follower.zip
+en unzipt dit.
 ##stap 29
-Je plaatst de Telnet command files in de include en de main in de Src.
+Op visual studio klik je op de Alien op de linker tab en daarna op open project.
+Hierbij selecteer je de map met de bestanden die je net unzipt hebt.
+Nu wordt dit project ingeladen.
 ##stap 30
-Je gaat naar PIO Home
+In de explorer tab klik je de map src.
 ##stap 31
-Je klikt op libraries
+Dan klik je op main.cpp
 ##stap 32
-Je zoekt naat de wifi
-
-##stap 
-In de main code pas je de parameters SSID, PSWD en MyHostNAme aan naar de correcte parameters
-De SSID naar de naam van je WIFI, PSWD naar het wachtwoord van je netwerk en Myhostname iets naar jouw voorkeur.
-Dit doe je in Visual Studio.
+In deze file zoek je naar de de parameters SSID, PSWD en MyHostNAme.
+##stap 33
+!Bij deze parameters pas je alleen de tekst tussen de "" aan!
+De SSID naar de naam van je WIFI netwerk, PSWD naar het wachtwoord van je Wifi netwerk en Myhostname naar iets van jouw voorkeur.
 ## stap 25
-Nu verbindt je de esp32 met je computer door de kabel in de USB micro te verbinden met een USB poort van de computer waarop Visual Studio staat.
+Nu verbind je de esp32 met je computer door de kabel in de USB micro te verbinden met een USB poort van de computer waarop Visual Studio staat.
 ## stap 26
 Je laadt het programma op op de esp32 door op upload te klikken dit is een knop op onderste balk.
 ## stap 27
