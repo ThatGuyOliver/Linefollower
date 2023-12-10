@@ -7,12 +7,11 @@ Bestel alle componenten uit de bill of materials
 ## stap 2
 Leg de breadboards in hun lengte naast elkaar
 ## stap 3
-Maak de zijstukken los maar behoud 1 zijstuk op 1 breadboard.
+Maak de zijstukken los, maar behoud één zijstuk op één breadboard.
 ## stap 4
-Nu moet je een configuratie bekomen van breadboards die gaat; Groot Breadboard - Klein Breadboard - Groot Breadboard.
-Die je aan elkaar vast hangt.
+Nu moet je een configuratie verkrijgen van breadboards zoals volgt: Groot Breadboard - Klein Breadboard - Groot Breadboard. Deze breadboards hang je vast aan elkaar.
 ## stap 5
-Je maakt de gele sticker aan de onderkant los. Zodat de onderkant van het breadboard plakkerig wordt.
+Verwijder de gele sticker aan de onderkant van het breadboard, zodat de onderkant plakkerig wordt.
 ## stap 6
 Je plakt dit breadboard nu op de baseplate tussen de verhogingen en vlak met de achterkant van de baseplate (Niet bij de uitsteeksels).
 ## stap 7
@@ -27,7 +26,7 @@ Je soldeert de pin headers van de sensor, in de rij met 11 gaten naast elkaar, m
 ## stap 11
 Nu soldeer je de header van de H-brug met het de lange kant naarbeneden (Lange kant naar de kant zonder componenten)
 ## stap 12
-Je bevestigd de sensor module met gebruik van lijm aan de onderkant van het uitsteeksel op het 2de gaatje en zodat het lange deel van de headers naar boven steekt en de sensoren naar beneden.
+Je bevestigt de sensor module met behulp van lijm aan de onderkant van het uitsteeksel op het tweede gaatje, zorg ervoor dat het lange deel van de headers naar boven steekt en de sensoren naar beneden wijzen.
 ## stap 13
 Het kogelwiel bevestig je in het midden van de robot en zodat het de sensor net niet raakt.
 ### stap 14
@@ -36,13 +35,13 @@ Je duwt de wielen op de motoren
 Je duwt de motoren in de motorenhouders (in een naar buiten wijzende manier) todat alleen nog het "gouden" gedeelte van de motor uitsteekt.
 ## stap 16
 !Vanaf nu is het perspectief vanuit de achterkant van de robot.
-Je plaatst de ESP32 het grootste deel op het lingste en  nog juist de rechter pins van de esp32 in het rechter breadboard zit. Zorg er ook voor dat de USB micro naar achter uit steekt.
+Je plaatst de ESP32 met de micro USB naar achter tegen de radnd en over het kleine breadboard, zodat de linker pins zich op het linker breadboard bevinden en de rechter pins op het rechter breadboard.
 ## stap 17
 De voltage regulator plaats je nu in de lengte, links van de esp32, op de linker helft van de linker breadboard.
 ## stap 18
 De H-Brug plaats in de rechter boven hoek, met de lange kant van de headers in het breadboard. En je zorgt ervoor dat hij over de gleuf staat zodat de 2 kanten niet op hetzelfde deel staan.
 ## stap 19
-Je bevestigd de batterij houder aan het Batterij Houder Platform met de Schroefjes en Moeren. Voor de oriëntatie neem je zodat de draadjes op de linker kant terecht komen in de volgende stap.
+Bevestig de batterijhouder aan het Batterij Houder Platform met behulp van de schroefjes en moeren. Plaats de batterijhouder zodat de draadjes aan de linkerkant terechtkomen in de volgende stap
 ## stap 20
 Je schuift de Batterij Houder Platform via de voorkant tot dat die vlak is met het baseplate deel.
 ## stap 21
@@ -70,7 +69,7 @@ Nu wordt dit project ingeladen dus wacht je tot dit wordt voltooid.
 ## stap 30
 In de explorer tab klik je de folder src open.
 ## stap 31
-Dan klik je op main.cpp
+Klik vervolgens op main.cpp.
 ## stap 32
 In deze file zoek je naar de de parameters SSID, PSWD en MyHostName.
 ## stap 33
@@ -97,6 +96,6 @@ Wanneer je alles correct hebt gedaan zou hier na enkele seconden het ip van je e
 ## stap 42
 Nu trek je de kabel uit de esp32.
 ## stap 43
-Je steekt de batterijen in de batterijhouder
+Plaats de batterijen in de batterijhouder.
 ## stap 44
 Je zet de switch van de batterihouder op ON
