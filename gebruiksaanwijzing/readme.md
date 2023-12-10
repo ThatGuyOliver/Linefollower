@@ -17,6 +17,24 @@ Er wordt ook zeker aangeraden dat wanneer je deze batterijen vervangt, je ze afg
 ## draadloze communicatie
 ### verbinding maken
 uitleg over het verbinden van de robot met laptop / smartphone
+#### 1: Putty (op computer)
+1.Verbind met hetzelde Wifi netwerk als de esp32
+1.1. Het netwerk waarmee de esp32 wordt bepaald wordt bepaald in de main.cpp file.
+2. Hostname: zelf gekozen hostname/ip esp32
+2.1 Hostname wordt gekozen in main.cpp file
+3. Port:  23
+4. Connection type: Other: Telnet
+#### 2: App IOS Termius
+1.Verbind met hetzelde Wifi netwerk als de esp32
+2. Navigeer naar Hosts tab
+3. Klik op + in de linker hoek
+4. New host
+5. Hostname 
+5.1 Hostname: zelf gekozen hostname 
+6. Schakel Use SSH uit
+7. Schakel Use Telnet aan
+8. Save 
+9. Klik nu op de net aangemaakte host
 
 ### commando's
 debug [on/off]  
@@ -33,6 +51,17 @@ calibrate white
 
 ## kalibratie
 uitleg kalibratie  
+Er moet worden gekalibreerd omdat er een verschil is tussen de verschillende sensoren, door een tolerantie op de onderdelen, wat eigen is aan productie.
+
+Commando: calibrate black
+Wanneer je dit commando stuurt over telnet wordt de reflectie van het opppervlakte waarover de sensor module op dat moment hangt opgeslagen
+per sensor opgeslagen als een zwart waarde.
+Commando: calibrate white
+Wanneer je dit commando stuurt over telnet wordt de reflectie van het opppervlakte waarover de sensor module op dat moment hangt opgeslagen
+per sensor opgeslagen als een wit waarde.
+
+Deze waardes worden dan gebruikt om te vergelijken met de huidig gedetecteerd oppervlakte ofdat het een wit of zwart oppervlakte is.
+Het is belangrijk dat je deze commandos opnieuw uitvoerd wanneer je van omgeving verandert zodat er correct kan gedetecteerd kan worden.
 
 ## settings
 De robot rijdt stabiel met volgende parameters:  
