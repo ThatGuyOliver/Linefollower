@@ -19,7 +19,7 @@
 |14|Verbindings kabel| Micro USB voor connector ESP32|recup|*|1|*|
 |15|Baseplate|Plaat waarop alles bevestigd wordt|nieuw|0,47|1|0,47|
 |16|Motorhouders|Polulu motor houder|nieuw|0,06|2|0,12|
-|17|Battery holder| Verhoog voor montering battery houder|nieuw|0,58|1|0,58|
+|17|Batterij Houder Platform| Verhoog voor montering battery houder|nieuw|0,58|1|0,58|
 |18|Schroef|M3x12|recup|0,10|4|0,40|
 |19|Moer|M3|recup|0,10|4|0,40|
 
