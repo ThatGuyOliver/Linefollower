@@ -53,26 +53,26 @@ Eventueel laadt je de batterijen op.
 Je zet de schakelaar van de batterij houder op "OFF"
 ##stap 24
 Je installeerd visual studio.
-##stap 25
+## stap 25
 Wanneer je op het startscherm bent, klik op je in de linkerbalk op extensions. 
-##stap 26
+## stap 26
 Je zoekt naar en installeert platform IO
-##stap 27
+## stap 27
 Nu klik op je de alien en wordt platform io gestart. Hierna herload je visual studio.
-##stap 28
+## stap 28
 Je download https://github.com/ThatGuyOliver/Linefollower/blob/main/code/finaal/Line%20Follower.zip
 en unzipt dit.
-##stap 29
+## stap 29
 Op visual studio klik je op de Alien op de linker tab en daarna op open project.
 Hierbij selecteer je de map met de bestanden die je net unzipt hebt.
 Nu wordt dit project ingeladen.
-##stap 30
+## stap 30
 In de explorer tab klik je de map src.
-##stap 31
+## stap 31
 Dan klik je op main.cpp
-##stap 32
+## stap 32
 In deze file zoek je naar de de parameters SSID, PSWD en MyHostNAme.
-##stap 33
+## stap 33
 !Bij deze parameters pas je alleen de tekst tussen de "" aan!
 De SSID naar de naam van je WIFI netwerk, PSWD naar het wachtwoord van je Wifi netwerk en Myhostname naar iets van jouw voorkeur.
 ## stap 34
