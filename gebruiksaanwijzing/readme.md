@@ -70,8 +70,3 @@ De robot rijdt stabiel met volgende parameters:
 #### Kp: 30
 #### Ki: 0
 #### Kd: 1.00
-
-/*
-## start/stop button
-uitleg locatie + werking start/stop button
-*/
