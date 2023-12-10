@@ -54,9 +54,30 @@ Je zet de schakelaar van de batterij houder op "OFF"
 ##stap 24
 Je installeerd visual studio.
 ##stap 25
-Wanneer je op het startscherm bent, klik op je op het zoekglas en installeer je platform IO
+Wanneer je op het startscherm bent, klik op je in de linkerbalk op extensions. 
+##stap 26
+Je zoekt naar en installeert platform IO
+##stap 27
+Nu klik op je de alien en wordt platform io gestart. Hierna herload je visual studio.
+##stap 28
 Hierbij selecteer je de az-delivery-devkit-v4 op het plaform espressif32 met het framework van Arduino.
-##stap
+##stap 26
+Maak een nieuwe project aan.
+##stap 26
+Je download main.zip
+https://github.com/ThatGuyOliver/Linefollower/blob/main/code/finaal/main.zip
+##stap 27
+Je unzipt deze bestanden en plaatst ze op een plek waar je aan kan.
+##stap 28
+In de explorer tab ga je naar je project.
+##stap 29
+Je plaatst de Telnet command files in de include en de main in de Src.
+##stap 30
+Je gaat naar PIO Home
+##stap 31
+Je klikt op libraries
+##stap 32
+Je zoekt naat de wifi
 
 ##stap 
 In de main code pas je de parameters SSID, PSWD en MyHostNAme aan naar de correcte parameters
