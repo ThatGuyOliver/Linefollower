@@ -3,7 +3,7 @@
 ## opladen / vervangen batterijen
 uitleg over het opladen of vervangen van de batterijen
 
-## Opladen
+### Opladen
 Dit zijn li-ion batterijen van het type 18650.
 Deze batterijen laad je best op voor en na een sessie.
 Wanneer tijdens een sessie een verminderde prestatie wordt geleverd kan je dan ook best de batterijen opladen.
