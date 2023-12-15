@@ -19,9 +19,9 @@ batteries:XTAR 2200mAh Li-ion battery
 
 wireless communication: AZ-Delivery ESP32-WROOM-32
 
-distance sensor - motors:
+distance sensor - motors: 8,57 cm
 
 weight:
 
-speed: 
+speed: 0.63 m/s
 
