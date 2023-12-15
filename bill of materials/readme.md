@@ -29,7 +29,7 @@
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk[€]|aantal|subtotaal[€]|
 |----------|----|------------|-----------|---------|------|---------|
 |1| Drv8833 H-Brug | Aliexpress 3-10V H-Brug | nieuw | 3,57|1|3,57|
-|2|PCB Mainboard|Vervanging van breadboard|nieuw|
+|2|PCB Mainboard|Vervanging van breadboard|nieuw|2,63|1|2,63|
 |3|DC Motor| 6V DC, 50:1 ratio| nieuw | 2,04|2 |4,08|
 |4|Achter Wiel| 40mm rubber wiel|nieuw|0,79|2|1,58|
 |5|Batterij Houder| 2x18650 Batterij met switch|nieuw|0,32|1|0,32|
@@ -38,7 +38,7 @@
 |7|Batterij lader|XTAR MC2 Plus batterijlader|nieuw|6,95|1|6,95|
 |9|Batterij|XTAR 18650 2200mAh (protected) 5A|nieuw|4,45|2|8,90|
 |10|ESP32 Microcontroller|AZ-Delivery ESP32-WROOM-32 NodeMCU Module|nieuw|7,60|1|7,60|
-|11|Kabels|Meerkleurige kabels 0,75mm|nieuw|7|1|7|
+|11|Kabels|Meerkleurige kabels 0,75mm|nieuw|7,00|1|7,00|
 |12|Voltage Regulator| +5V 1,5A L7805CV|0,75|1|0,75|
 |13|Kogelwiel| Draaiende bal voor voorwiel|nieuw|1,10|1|1,10|
 |14|Verbindings kabel| Micro USB voor connector ESP32|recup|*|1|*|
