@@ -41,7 +41,7 @@ uitleg over het verbinden van de robot met laptop / smartphone
 #### run Start of stopt de robot.
 #### set cycle [µs]  Stelt de cycle time in van de robot.
 #### set power [0..255] Stelt de maximum power van de robot in.
-#### set diff [0..1] 
+#### set diff [0..1] Stelt de verschil in power tussen de motoren in bochten
 #### set kp [0..] Stelt de propertionele correctie van de fout in.
 #### set ki [0..] Stelt de integrale correctie van de fout in.
 #### set kd [0..] Stelt de differentiële correctie van de fout in.
