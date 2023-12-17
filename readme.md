@@ -21,7 +21,7 @@ wireless communication: AZ-Delivery ESP32-WROOM-32
 
 distance sensor - motors: 8,57 cm
 
-weight:
+weight: 260g
 
 speed: 0.774 m/s
 
