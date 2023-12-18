@@ -70,3 +70,11 @@ De robot rijdt stabiel met volgende parameters:
 #### Kp: 30
 #### Ki: 0
 #### Kd: 1.00
+
+## settings optimaal Plan A
+#### cycle time: 200
+#### power: 200
+#### Diff: 0.01
+#### Kp: 10
+#### Ki: 0
+#### Kd: 0.8
